@@ -37,19 +37,17 @@ This project is designed as both a **learning exercise** and a **portfolio proje
    git clone https://github.com/<your-username>/react-todo-app.git
    cd react-todo-app
 
+2. Install dependencies:
+   ```bash
+   npm install
 
-Install dependencies:
+3. Run the app:
+   ```bash
+   npm start
 
-
-npm install
-
-Run the app:
-
-npm start
-
-Open in browser:
-
-http://localhost:3000
+4 Open in browser:
+   ```bash
+   http://localhost:3000
 
 
 
