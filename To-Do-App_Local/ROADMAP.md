@@ -1,8 +1,8 @@
 ## 📅 Roadmap
 
 ### Phase 1 – Basic To-Do App (MVP)
-- [x] Add & display tasks  
-- [x] Simple styling with CSS  
+- [ ] Add & display tasks  
+- [ ] Simple styling with CSS  
 
 ### Phase 2 – Core Features
 - [ ] Delete tasks  
