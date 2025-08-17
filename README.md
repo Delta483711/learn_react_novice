@@ -1,6 +1,5 @@
-# learn react novice
-This is a repository that will hold few projects to help with leaning React front end and also node js for backend 
-
+# Learn React Novice
+This is a repository that will hold a few projects to help with learning React front-end and also Node.js for backend 
 
 # 📝 React To-Do App
 
