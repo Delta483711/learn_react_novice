@@ -1,7 +1,7 @@
 # Learn React
 This is a repository that will hold a few projects to help with learning React front-end and also Node.js for backend 
 
-# 📝 React To-Do App
+## 📝 React To-Do App
 
 A simple **To-Do List App** built with **React** to practice core concepts like **components, props, state, events, and hooks**.  
 
@@ -9,7 +9,7 @@ This project is designed as both a **learning exercise** and a **portfolio proje
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 ✅ Add tasks  
 ✅ View tasks in a list  
 ✅ Delete tasks  
@@ -19,7 +19,7 @@ This project is designed as both a **learning exercise** and a **portfolio proje
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 - **Frontend**: React (Create React App)  
 - **Styling**: CSS (upgrade path: Tailwind CSS / Material UI)  
 - **State Management**: React Hooks (`useState`, `useEffect`)  
@@ -29,7 +29,7 @@ This project is designed as both a **learning exercise** and a **portfolio proje
 ---
 
 
-## 📦 Installation & Setup
+### 📦 Installation & Setup
 
 1. Clone the repo:
    ```bash
