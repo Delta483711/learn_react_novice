@@ -1,4 +1,4 @@
-# learn_react_novice
+# learn react novice
 This is a repository that will hold few projects to help with leaning React front end and also node js for backend 
 
 
@@ -28,5 +28,3 @@ This project is designed as both a **learning exercise** and a **portfolio proje
 - **Deployment**: Netlify / Vercel (optional)  
 
 ---
-
-## 📂 Project Structure
