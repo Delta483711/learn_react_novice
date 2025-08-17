@@ -28,3 +28,28 @@ This project is designed as both a **learning exercise** and a **portfolio proje
 - **Deployment**: Netlify / Vercel (optional)  
 
 ---
+
+
+## 📦 Installation & Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/react-todo-app.git
+   cd react-todo-app
+
+
+Install dependencies:
+
+
+npm install
+
+Run the app:
+
+npm start
+
+Open in browser:
+
+http://localhost:3000
+
+
+
